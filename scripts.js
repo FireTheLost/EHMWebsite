@@ -1,3 +1,5 @@
+//These two functions change the image and caption in the about page.
+
 function humor()
 {
     document.getElementById("about-humor").innerHTML = "CodeX.exe"
