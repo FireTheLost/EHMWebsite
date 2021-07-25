@@ -218,7 +218,8 @@ a:hover   {
 	display: -webkit-flex;
 	justify-content:space-between;
 	-webkit-justify-content:space-between;
-    line-height: 25px;;
+    line-height: 25px;
+    margin-bottom: 100px;
 }
 
 #about-img {
@@ -243,6 +244,7 @@ a:hover   {
     margin: 0 auto;
     border-radius: 10px;
     line-height: 45px;
+    margin-bottom: 100px;
 }
 
 .blog   {
